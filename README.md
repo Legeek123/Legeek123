@@ -2,7 +2,7 @@
 - 👀 I’m interested in programmation and development
 - 🌱 I’m currently learning PHP, Js and Java
 - 💞️ I’m looking to collaborate on a project
-- 📫 How to reach me @CyberShadow1 on Discord
+- 📫 How to reach me @cyber_shadow1 on Discord
 - 😄 Pronouns: he
 - ⚡ Fun fact: I don't know what to write here
 
